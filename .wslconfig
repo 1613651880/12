@@ -1,0 +1,5 @@
+[wsl2]
+generateResolvConf = false
+[network]
+generateHosts = false
+forwardWindowsProxy = true
